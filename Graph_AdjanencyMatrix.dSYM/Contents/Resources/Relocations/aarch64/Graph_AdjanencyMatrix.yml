@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pranayagrawal/Desktop/DSA/Graph_AdjanencyMatrix'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5printPPiiiPb, symObjAddr: 0x0, symBinAddr: 0x100003AB8, symSize: 0xFC }
+  - { offsetInCU: 0x4A76, offset: 0x4A76, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x128, symBinAddr: 0x100003BE0, symSize: 0x58 }
+  - { offsetInCU: 0x4AB6, offset: 0x4AB6, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x3F8, symBinAddr: 0x100003EB0, symSize: 0x2C }
+  - { offsetInCU: 0x77A1, offset: 0x77A1, size: 0x8, addend: 0x0, symName: __Z5printPPiiiPb, symObjAddr: 0x0, symBinAddr: 0x100003AB8, symSize: 0xFC }
+  - { offsetInCU: 0x78BC, offset: 0x78BC, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0xFC, symBinAddr: 0x100003BB4, symSize: 0x2C }
+  - { offsetInCU: 0x78EE, offset: 0x78EE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x180, symBinAddr: 0x100003C38, symSize: 0x1F4 }
+  - { offsetInCU: 0x79DA, offset: 0x79DA, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0x374, symBinAddr: 0x100003E2C, symSize: 0x84 }
+  - { offsetInCU: 0x7A46, offset: 0x7A46, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0x424, symBinAddr: 0x100003EDC, symSize: 0x38 }
+...
